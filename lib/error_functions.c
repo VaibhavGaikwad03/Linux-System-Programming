@@ -6,7 +6,7 @@
 #ifndef __GNUC__
 __attribute__((__noreturn__))
 #endif //__GNUC__
- 
+
 static void
 terminate(bool useExit3)
 {
