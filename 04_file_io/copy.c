@@ -1,4 +1,4 @@
-/*
+/* 
 $ gcc copy.c -o copy
 $ ./copy oldfile newfile
 */
